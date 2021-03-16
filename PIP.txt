@@ -1,0 +1,2 @@
+PIP es un manejador de paquetes, lo unico que hace PIP es descargar e instalar programas hechos en python. Descargar
+librerias de python
