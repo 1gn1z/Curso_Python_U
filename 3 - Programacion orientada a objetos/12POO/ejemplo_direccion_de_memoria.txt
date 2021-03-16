@@ -1,0 +1,4 @@
+ejemplo de direccion de memoria si NO esta definido el metodo __str__ y lo llamamos asi
+print(instancia)
+
+<player.Sorcerer object at 0x00420AF0>

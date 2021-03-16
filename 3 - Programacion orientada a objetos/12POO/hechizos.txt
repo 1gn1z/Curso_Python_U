@@ -1,0 +1,9 @@
+Sorcerer:	Relampago de fuego	:	igne fulgur
+
+Knight:		fuerza 			:	impetu
+
+Paladin:	magia valiente		:	fortis magica
+
+Druida:		alma			:	anima mea
+
+
