@@ -1,0 +1,10 @@
+body{
+    background: midnightblue;
+    color: white;
+}
+
+
+/* 
+Normalmente los cambios del CSS NO SE PRODUCEN EN EL NAVEGADOR, esto es debido a la memoria CACHE.
+Para ver los cambios, podemos hacerlo en UNA PESTAÑA DE INCOGNITO, que al ser de incognito, NO GUARDA INFO DE LAS PAGINAS.
+*/
